@@ -1,4 +1,4 @@
-/* This is a 2 X 2 Sudoku Game*/
+/* This is a 4 X 4 Sudoku Game*/
 #include "pch.h"
 #include<iostream>
 using namespace std;
