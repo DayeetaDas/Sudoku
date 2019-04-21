@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Sudoku 4 X 4 Tutorial.cpp
+c:\users\dayeeta\source\repos\sudoku\sudoku\sudoku 4 x 4 tutorial.cpp(139): warning C4102: 'repeat': unreferenced label
+  Sudoku.vcxproj -> C:\Users\Dayeeta\source\repos\Sudoku\Debug\Sudoku.exe
